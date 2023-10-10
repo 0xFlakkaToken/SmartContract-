@@ -1,7 +1,6 @@
 # SmartContract-
 
-https://www.canva.com/brand/join?token=fpaS3NS3lB_kxE6nWrmPsw&referrer=team-invite
-
+https://etherscan.io/address/0x0D12946Eb58a41C9F8d4440fc1D01b7320C25633
 /**
  *Submitted for verification at Etherscan.io on 2023-10-10
 */
